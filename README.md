@@ -3,7 +3,7 @@ An easy to use tool to upload files for WeSearch
 
 ## Requirements
 - Locally clone this repo and run with python3. This has been tested with v3.10.4
-- You have an account with casetext. If not, create an account from here[!https://casetext.com/trial]
+- You have an account with casetext. If not, create an account from [here](https://casetext.com/trial)
 - Install needed packages `python3 -m pip install -r requirements.txt`
 
 ## Usage
